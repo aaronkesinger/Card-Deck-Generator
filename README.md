@@ -2,7 +2,7 @@
 This is a script I made to help in coding simple card games. I made the number of decks up to the user as some games use multiple decks. 
 
 Sample Use:
-```
+```python
 cards = GenerateDeck(2)
 print("Number of Cards: ", len(cards))
 
